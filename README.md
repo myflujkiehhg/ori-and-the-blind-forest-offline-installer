@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+“Ori and the Blind Forest” tells the tale of a young orphan destined for heroics, through a visually stunning action-platformer crafted by Moon Studios for PC.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel Core 2 Duo E4500 @ 2.2GHz or AMD Athlon 64 X2 560… / Rec: Intel Core i5 2300 or AMD FX6120 | Intel Core i5 / Apple M1 |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Graphics** | Min: GeForce 240 GT or Radeon HD 6570 – 1024 MB (1 gig) / Rec: GeForce GTX 550 Ti or Radeon HD 6770 | Metal-capable GPU |
+| **DirectX** | Min: Version 9.0c / Rec: Version 11 | Version 9.0c |
+| **Storage** | 8 GB available space | 8 GB available space |
+| **OS *** | Windows 7 | Windows 7 |
 
 ---
 
